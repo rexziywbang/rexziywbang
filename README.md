@@ -24,6 +24,18 @@
 
 ## Projects to explore
 
+### Maize Macros
+
+An iOS app I built for friends at the University of Michigan to find dining-hall meals that fit their macro goals and food preferences. Brings together official menus, personalized meal recommendations, portion swaps, and nutrition tracking.
+
+`Swift` `SwiftUI` `Python` `SQLite`
+
+### Name That LLM · Kaggle
+
+A competition project for identifying which language model generated a text response. Explores text and style features, transformer hidden-state probes, LoRA fine-tuning, and ensembles, with prompt-grouped validation to evaluate generalization.
+
+`Python` `NLP` `Transformers` `LoRA` `Model evaluation`
+
 ### [Ripple](https://github.com/rexziywbang/ripple) · HackMIT
 
 An event planning assistant that follows the effects of a change across venues, catering, staffing, and budgets. **My contribution focused on the landing page and product demo.**
