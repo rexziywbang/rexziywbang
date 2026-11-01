@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
+<title id="title">Curiosity into useful software</title><desc id="desc">An original navy banner with a connected graph, lilac curves, and teal nodes.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#10172b"/><stop offset="1" stop-color="#1e2447"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#8b9dff"/><stop offset="1" stop-color="#75e3d0"/></linearGradient></defs>
+<rect width="960" height="220" rx="20" fill="url(#bg)"/>
+<g stroke="#ffffff" opacity=".04"><path d="M0 44H960M0 88H960M0 132H960M0 176H960M48 0V220M96 0V220M144 0V220M192 0V220M240 0V220M288 0V220M336 0V220M384 0V220M432 0V220M480 0V220M528 0V220M576 0V220M624 0V220M672 0V220M720 0V220M768 0V220M816 0V220M864 0V220M912 0V220"/></g>
+<rect x="42" y="40" width="4" height="23" rx="2" fill="#75e3d0"/>
+<text x="58" y="56" fill="#b9c6e8" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">LEARN. MODEL. BUILD.</text>
+<text x="42" y="112" fill="#f3f6ff" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700">Curiosity into useful software.</text>
+<text x="44" y="153" fill="#b4c1df" font-family="Arial,Helvetica,sans-serif" font-size="16">Machine learning · Quantitative modeling · Product development</text>
+<g transform="translate(770 40)" fill="none" stroke="url(#line)" stroke-width="2" opacity=".8"><path d="M0 90L44 22L98 56L135 0M0 90L67 129L98 56L142 113M44 22L67 129M0 90L98 56"/><circle cx="0" cy="90" r="7" fill="#75e3d0"/><circle cx="44" cy="22" r="7" fill="#9aa9ff"/><circle cx="98" cy="56" r="10" fill="#75e3d0"/><circle cx="135" cy="0" r="5" fill="#9aa9ff"/><circle cx="67" cy="129" r="6" fill="#9aa9ff"/><circle cx="142" cy="113" r="7" fill="#75e3d0"/></g>
+</svg>
