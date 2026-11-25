@@ -30,7 +30,7 @@ An iOS app I built for friends at the University of Michigan to find dining-hall
 
 `Swift` `SwiftUI` `Python` `SQLite`
 
-### Name That LLM · Kaggle
+### [Name That LLM](https://github.com/rexziywbang/name-llm-challenge) · Kaggle
 
 A competition project for identifying which language model generated a text response. Explores text and style features, transformer hidden-state probes, LoRA fine-tuning, and ensembles, with prompt-grouped validation to evaluate generalization.
 
